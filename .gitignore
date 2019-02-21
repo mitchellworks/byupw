@@ -1,4 +1,6 @@
-/nbproject
+nbproject/
+node_modules/
+bak/
 *.jpg
 *.jpeg
 *.png
